@@ -1,0 +1,26 @@
+player_id,name,position,age,team,games_played,minutes,points,assists,personal_fouls,technical_fouls,points_plus_assists,points_per_game,position_full
+1,Adeyemi,PG,24,Lagos Leopards,28,896,336,196,58,0,532,432.0,Point Guard
+2,Okafor,SG,29,Lagos Leopards,30,960,540,120,64,1,660,648.0,Shooting Guard
+3,Balogun,SF,26,Lagos Leopards,27,864,410,140,70,0,550,546.6666666666666,Small Forward
+4,Diallo,PF,31,Lagos Leopards,29,928,380,60,112,2,440,471.7241379310345,Power Forward
+5,Nwosu,C,28,Lagos Leopards,30,900,340,40,128,1,380,408.0,Center
+6,Owusu,PG,22,Accra Aces,25,700,245,175,45,0,420,352.8,Point Guard
+7,Appiah,SG,27,Accra Aces,28,868,460,90,58,0,550,591.4285714285714,Shooting Guard
+8,Danquah,SF,25,Accra Aces,26,780,360,110,66,0,470,498.46153846153845,Small Forward
+9,Bello,PF,30,Accra Aces,29,870,330,55,118,3,385,409.6551724137931,Power Forward
+10,Chukwu,C,33,Accra Aces,27,756,260,35,130,1,295,346.6666666666667,Center
+11,Eneh,PG,23,Kano Kings,24,672,230,168,42,0,398,345.0,Point Guard
+12,Gyamfi,SG,26,Kano Kings,29,870,470,95,60,0,565,583.448275862069,Shooting Guard
+13,Hassan,SF,28,Kano Kings,30,930,420,120,74,1,540,504.0,Small Forward
+14,Ikpeba,PF,24,Kano Kings,22,660,255,48,95,2,303,417.27272727272725,Power Forward
+15,Jalloh,C,31,Kano Kings,28,812,290,30,120,2,320,372.85714285714283,Center
+16,Kamara,PG,20,Abuja Pythons,18,486,160,120,30,0,280,320.0,Point Guard
+17,Lawal,SG,25,Abuja Pythons,27,810,430,80,52,0,510,573.3333333333334,Shooting Guard
+18,Mohammed,SF,29,Abuja Pythons,29,870,395,105,68,0,500,490.34482758620686,Small Forward
+19,Nkrumah,PF,27,Abuja Pythons,26,780,300,50,105,1,350,415.3846153846154,Power Forward
+20,Oduya,C,32,Abuja Pythons,30,870,315,32,132,1,347,378.0,Center
+21,Peprah,PG,26,Kumasi Giants,19,342,120,90,22,0,210,227.36842105263156,Point Guard
+22,Quansah,SG,21,Kumasi Giants,15,240,120,30,16,0,150,288.0,Shooting Guard
+23,Rahman,SF,33,Kumasi Giants,11,154,60,18,14,0,78,196.36363636363635,Small Forward
+24,Sowah,PF,28,Kumasi Giants,22,374,150,25,55,0,175,245.45454545454544,Power Forward
+25,Tetteh,C,30,Kumasi Giants,24,384,140,15,60,1,155,210.0,Center
